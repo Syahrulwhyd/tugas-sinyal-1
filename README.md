@@ -4,7 +4,7 @@
 ![A](A.png)
 
 ## B. Result and Script on Spyder
-Script: [B.py]
+Script: [B](B.py)
 ![B](B.png)
 
 ## C. Last Commit Logs
